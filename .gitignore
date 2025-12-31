@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+
+# Environment
+.env
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage
+coverage/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+
+# Testing
+/jest.config.js
+
+# User Defined
+docs-internal/
+temp-test
+plan.md
+test_plan.md
